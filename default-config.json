@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
+  "enabled": true,
+  "settings": {
+    "Show Quick Settings": true,
+    "Screenshot Key": "K",
+    "Screenshot Mode": {
+      "type": "selector",
+      "value": "ShipLog",
+      "options": [
+        "Full",
+        "ShipLog",
+        "SlideReel",
+        "Custom"
+      ]
+    },
+    "Custom Width": 512,
+    "Custom Height": 512,
+    "Change Field of View": true,
+    "Field of View": 120.0,
+    "Greyscale Mode": {
+      "type": "selector",
+      "value": "Maximum",
+      "options": [
+        "None",
+        "Luminance",
+        "Average",
+        "Maximum"
+      ]
+    }
+  }
+}

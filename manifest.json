@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ScreenshotTool.dll",
+  "author": "Hawkbar",
+  "name": "Screenshot Tool",
+  "uniqueName": "Hawkbar.ScreenshotTool",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.8",
+  "dependencies": []
+}
